@@ -3,7 +3,7 @@ let numero = 5;
 let dobro = 2;
 {
     let resultado = 5 * 2;
-    console.log("O dobro de " + resultado);
+    console.log("O dobro é: " + resultado);
 }
 
 //5- Faça um algoritmo para ler tres numeros inteiros, armazenar em variaveis, e exibir a soma, a subtração, multiplicação e a média dos três numeros digitados
@@ -17,10 +17,10 @@ let multiplicacao = num1 * num2 * num3;
 
 let media = soma / 3;
 
-console.log("Soma " + soma);
-console.log("Subtracao " + subtracao);
-console.log("Multiplicacao " + multiplicacao);
-console.log("Media " + media);
+console.log("Soma= " + soma);
+console.log("Subtracao= " + subtracao);
+console.log("Multiplicacao= " + multiplicacao);
+console.log("Media= " + media);
 
 //6- Faça um algoritmo para ler duas notas, calcular a média. 
 // E SE - a média >5 Exibir Aprovado
